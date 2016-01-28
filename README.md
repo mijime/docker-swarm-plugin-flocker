@@ -1,1 +1,1 @@
-# docker-swarm-volume-driver
+# docker-swarm-plugin-flocker
